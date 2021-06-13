@@ -8,8 +8,8 @@ red = (255, 0, 0)
 purple = (255, 0, 255)
 yellow = (255, 255,   0)
 
-Trollicon = pygame.image.load('images/hero.png')
-pygame.display.set_icon(Trollicon)
+Heroicon = pygame.image.load('images/hero.png')
+pygame.display.set_icon(Heroicon)
 
 # Add music
 pygame.mixer.init()
